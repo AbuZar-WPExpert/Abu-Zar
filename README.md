@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AbuZar-WPExpet
-- 👀 I’m interested in collavrating with senior
+- 👀 I’m interested in wordpress projects
 - 🌱 I’m currently learning wordpress developnment
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on development projects
 - 📫 How to reach me ...
 - 📧 zargondal629@gmail.com
 <!---
