@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @AbuZar-WPExpet
+- 👋 Hi, I’m @AbuZar-Frontend Developer
 - 👀 I’m interested in wordpress projects
-- 🌱 I’m currently learning wordpress developnment
+- 🌱 I’m currently learning WordPress developnment
 - 💞️ I’m looking to collaborate on development projects
 - 📫 How to reach me ...
 - 📧 zargondal629@gmail.com
